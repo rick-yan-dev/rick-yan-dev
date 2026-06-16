@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rick, a Cloud & Cybersecurity engineer who likes coding. I am based out of United States of America (USA). 
+I'm Rick, a Cloud & Cybersecurity engineer who likes coding. I am based out of United States of America (USA) 🤗. 
 
 <!--
 **rick-yan-dev/rick-yan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
